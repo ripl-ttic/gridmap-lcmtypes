@@ -1,4 +1,4 @@
-package ripl;
+package gmlcm;
 
 struct position_t
 {
